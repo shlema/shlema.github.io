@@ -20,6 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'jekyll-sitemap', '~> 1.4'
   spec.add_runtime_dependency 'jekyll-compose', '~> 0.12.0'
   spec.add_runtime_dependency 'jekyll-postfiles', '~> 3.1'
+  spec.add_runtime_dependency 'tzinfo', ''
 
   spec.add_development_dependency "bundler", "~> 2.1"
 end
