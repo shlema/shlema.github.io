@@ -1,13 +1,18 @@
 ---
-title: Colophon
+title: Contact
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
 
 **Talk to me**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- [{{ site.author.email }}](mailto:{{ site.author.email }})
+
+**Let's connect**
+
+- [Twitter](https://twitter.com/{{ site.author.twitter }})
+- [LinkedIn](https://linkedin.com/in/{{ site.author.linkedin }})
+- [Facebook](https://facebook.com/{{ site.author.facebook}})
+- [Instagram](https://www.instagram.com/{{ site.author.instagram }})
