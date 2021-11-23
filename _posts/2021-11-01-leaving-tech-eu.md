@@ -2,6 +2,7 @@
 layout: post
 title: "Personal news time: I'm leaving Tech.eu"
 image: "/assets/img/techeu_brussels.jpg"
+comments: True
 ---
 
 <!-- # Personal news time: I'm leaving Tech.eu -->

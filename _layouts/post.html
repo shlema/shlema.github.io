@@ -74,10 +74,6 @@ layout: compress
         </div>
       </article>
     
-      {% if page.comments %}
-        {% include comments.html %}
-      {% endif %}
-
     </main>
 
     {% if page.modified %}
@@ -85,6 +81,10 @@ layout: compress
     {% endif %}
     {% if page.next or page.previous %}
       {% include navigation.html %}
+    {% endif %}
+
+    {% if site.telegram_site_id %}
+        {% include telegram.html %}
     {% endif %}
 
     {% include footer.html %}

@@ -8,6 +8,9 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 repo: https://github.com/shlema/shlema.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
+# telegram comments
+telegram_site_id: "Sc-g4c-R"
+
 # Profile settings
 author:
   name: Andrii Degeler # author name
