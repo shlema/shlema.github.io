@@ -7,7 +7,7 @@ comments: false
 
 **Hey,** 
 
-I’m Andrii Degeler, a podcast producer and tech journalist born in Ukraine and currently living in Groningen, The Netherlands. Since 2007, I’ve been covering all things technology for online and offline publications both in Ukraine and internationally. For more information on what I do for work, check out [proceed.to](https://proceed.to). 
+I’m Andrii Degeler, a podcast producer and tech journalist born in Ukraine and currently living in Amsterdam. Since 2007, I’ve been covering all things technology for online and offline publications across the globe. In August 2022, I joined [TNW](https://thenextweb.com) as the Head of Media to build a new editorial strategy focused on the European innovation technology ecosystem.
 
 When I'm not working, I play ultimate frisbee, hoard boardgames, and learn to fly a small airplane.
 
