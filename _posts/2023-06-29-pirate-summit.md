@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pirate Summit, one last time"
-image: ""
+image: "/assets/img/pirate-2016-03.jpg"
 comments: True
 carousels:
   - images: 
