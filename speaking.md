@@ -6,17 +6,11 @@ comments: false
 ---
 ---
 
-**Full name:** 
+**Full name:** `Andrii Degeler`
 
-`Andrii Degeler`
+**Job title:** `Head of Media`
 
-**Job title:** 
-
-`Head of Media`
-
-**Company:** 
-
-`TNW, a Financial Times company`
+**Company:** `TNW, a Financial Times company`
 
 **Short bio:** 
 
