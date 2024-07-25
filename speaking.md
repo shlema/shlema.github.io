@@ -1,10 +1,33 @@
 ---
 layout: page
-title: Speaker details
-permalink: /details/
+title: Public speaking
+permalink: /speaking/
 comments: false
 ---
 ---
+
+Over the years, I've taken the stage at technology conferences dozens of times to discuss topics like the future of media, startup ecosystems, PR and media communications for startups, and much more. 
+
+As a professional journalist, podcast host, and experienced public speaker, I'm often asked to interview technology leaders on stage and moderate panel discussions. I've been fortunate to share the stage with the bright minds representing the likes of NATO, Microsoft, Y Combinator, Adyen, Red Hat, and much more. 
+
+I'm open to invitation to events that have to do with the (European) technology ecosystem in the capacity of a speaker, moderator, or stage host. 
+
+## Keynotes
+
+My go-to areas of expertise are media communications for startups, the role of media within the technology ecosystem, the state of European tech, as well as the future of European tech regulation and policy. 
+
+Here are a few examples of keynote topics I cover: 
+
+- Beyond the press release: Media communications for founders
+- Navigating tech media landscape for VCs
+- (Tech) media in the age of AI
+- The bull case for European tech
+- Exporting regulation: How European tech policy is shaping Big Tech
+- Time for tech optimism in Europe
+
+I'm happy to adjust the existing topics or come up with something new completely to fit the audience and the theme of the event. 
+
+## Speaker details
 
 **Full name:** ```Andrii Degeler```
 
