@@ -4,7 +4,6 @@ title: Public speaking
 permalink: /speaking/
 comments: false
 ---
----
 
 Over the years, I've taken the stage at technology conferences dozens of times to discuss topics like the future of media, startup ecosystems, PR and media communications for startups, and much more. 
 
