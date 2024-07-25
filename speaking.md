@@ -5,6 +5,8 @@ permalink: /speaking/
 comments: false
 ---
 
+![TechChill Milano 2023](/assets/public-speaking.jpg)
+
 Over the years, I've taken the stage at technology conferences dozens of times to discuss topics like the future of media, startup ecosystems, PR and media communications for startups, and much more. 
 
 As a professional journalist, podcast host, and experienced public speaker, I'm often asked to interview technology leaders on stage and moderate panel discussions. I've been fortunate to share the stage with the bright minds representing the likes of NATO, Microsoft, Y Combinator, Adyen, Red Hat, and much more. 
