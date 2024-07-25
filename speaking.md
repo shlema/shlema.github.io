@@ -5,7 +5,7 @@ permalink: /speaking/
 comments: false
 ---
 
-![TechChill Milano 2023](/assets/public-speaking.jpg)
+![TechChill Milano 2023](/assets/img/public-speaking.jpg)
 
 Over the years, I've taken the stage at technology conferences dozens of times to discuss topics like the future of media, startup ecosystems, PR and media communications for startups, and much more. 
 
