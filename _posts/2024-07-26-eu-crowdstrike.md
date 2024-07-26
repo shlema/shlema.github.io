@@ -5,6 +5,8 @@ image: "/assets/img/eu-crowdstrike-newsletter.jpg"
 comments: True
 ---
 
+![This week's TNW Newsletter cover](/assets/img/eu-crowdstrike-newsletter.jpg)
+
 *\[This post if part of our weekly [TNW Newsletter](https://thenextweb.com/newsletters) — do subscribe if you haven't yet!\]*
 
 Last week, it felt like entire countries and industries came to a grinding halt due to an update of the CrowdStrike software package that caused 8.5 million Windows PCs across the world to enter into the infamous Blue Screen of Death. With all kinds of companies having experienced lengthy outages (and many of them are still suffering from issues), the situation doesn’t look good for CrowdStrike or for Microsoft, even though it wasn’t the direct fault of the latter.
