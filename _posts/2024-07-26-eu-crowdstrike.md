@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microsoft is (kind of) blaming the EU after the CrowdStrike disaster"
-image: ""
+image: /assets/img/eu-crowdstrike-newsletter.jpg
 comments: True
 ---
 
