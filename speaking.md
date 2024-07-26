@@ -9,9 +9,9 @@ comments: false
 
 Over the years, I've taken the stage at technology conferences dozens of times to discuss topics like the future of media, startup ecosystems, PR and media communications for startups, and much more. 
 
-As a professional journalist, podcast host, and experienced public speaker, I'm often asked to interview technology leaders on stage and moderate panel discussions. I've been fortunate to share the stage with the bright minds representing the likes of NATO, Microsoft, Y Combinator, Adyen, Red Hat, and much more. 
+As a professional journalist, podcast host, and experienced public speaker, I'm often asked to interview technology leaders on stage and moderate panel discussions. I've been fortunate to share the stage with the bright minds representing the likes of NATO, Microsoft, Y Combinator, Adyen, Red Hat, and many more. 
 
-I'm open to invitation to events that have to do with the (European) technology ecosystem in the capacity of a speaker, moderator, or stage host. 
+I'm open to invitations to events related to the (European) technology ecosystem in the capacity of a speaker, moderator, or stage host. 
 
 ## Keynotes
 
