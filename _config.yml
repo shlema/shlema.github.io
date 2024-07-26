@@ -29,7 +29,7 @@ author:
 url: "https://shlema.me" #
 baseurl:
 permalink: /:title/
-google_analytics: G-QLTXZZ6WCB # leave it blank if not wish
+google_analytics: # leave it blank if not wish
 fb_appid:
 
 # Collection setting
