@@ -32,14 +32,14 @@ I'm happy to adjust the existing topics or come up with something new completely
 
 **Full name:** Andrii Degeler
 
-**Job title:** Head of Media
+**Job title:** Tech journalist
 
-**Company:** TNW, a Financial Times company
+**Company:** Proceed.to
 
 **Short bio:** 
 
 ```
-Andrii Degeler is a tech media leader, journalist, and podcast host with over 15 years of experience of covering the European startup landscape and running content teams. As the Head of Media at TNW, his goal is to bring the continent's innovation ecosystem together and uncover and examine the most important technology trends of today.
+Andrii Degeler is a tech media leader, journalist, and podcast host with over 15 years of experience of covering the European startup landscape and running content teams. Throughout his career, his goal has been to bring the continent's innovation and deeptech ecosystem together and uncover and examine the most important technology trends.
 ```
 
 **Photo:** [/headshot.jpg](https://shlema.me/assets/img/headshot.jpg)
