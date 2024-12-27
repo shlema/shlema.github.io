@@ -39,7 +39,7 @@ I'm happy to adjust the existing topics or come up with something new completely
 **Short bio:** 
 
 ```
-Andrii Degeler is a tech media leader, journalist, and podcast host with over 15 years of experience of covering the European startup landscape and running content teams. Throughout his career, his goal has been to bring the continent's innovation and deeptech ecosystem together and uncover and examine the most important technology trends.
+Andrii Degeler is a tech media leader, journalist, and podcast host with over 15 years of experience of covering the European startup landscape and running content teams. Among the publications he's worked for are TNW (a Financial Times company), Tech.eu, Ars Technica, Engadget, and more. Throughout Andrii's career, his goal has been to bring the continent's innovation and deeptech ecosystem together and uncover and examine the most important technology trends.
 ```
 
 **Photo:** [/headshot.jpg](https://shlema.me/assets/img/headshot.jpg)
