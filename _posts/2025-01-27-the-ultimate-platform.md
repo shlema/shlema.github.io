@@ -9,7 +9,9 @@ Here's an interesting thing to think about: what happens if generative AI platfo
 
 I already mentioned [the essay](https://www.bloomberg.com/news/articles/2025-01-10/8-ways-ai-will-transform-journalism) by Bloomberg News’ editor-in-chief John Micklethwait on AI and journalism the other day. Here's a passage from the piece: 
 
-> “[…] reporting will still have enormous value. […] you need reporting. An AI summary is only as good as the story it is based on. And getting the stories is where the humans still matter.”
+``` 
+“[…] reporting will still have enormous value. […] you need reporting. An AI summary is only as good as the story it is based on. And getting the stories is where the humans still matter.”
+```
 
 I wholeheartedly agree with this notion, there's really no way around it. However, I'm not sure it necessarily means that the future of media and journalism as we know them now is secured. 
 
