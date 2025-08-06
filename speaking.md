@@ -34,7 +34,7 @@ I'm happy to adjust the existing topics or come up with something new completely
 
 **Job title:** Tech journalist
 
-**Company:** Proceed.to
+**Company:** Unzip.Media
 
 **Short bio:** 
 
