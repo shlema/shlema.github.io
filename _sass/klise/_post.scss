@@ -71,6 +71,10 @@
 .page-content {
   padding-top: 8px;
 
+  &--no-title {
+    margin-top: 6.3rem;
+  }
+
   iframe {
     text-align: center;
   }
