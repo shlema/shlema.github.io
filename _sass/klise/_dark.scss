@@ -162,6 +162,9 @@ body[data-theme="dark"] {
     .post-item-date {
       color: $dark-white;
     }
+    &--with-excerpt .post-item-date {
+      color: $dark-text-base-color;
+    }
     .post-item-title {
       a {
         color: $dark-text-base-color;

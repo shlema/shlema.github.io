@@ -262,6 +262,33 @@
       }
     }
   }
+
+  &--with-excerpt {
+    display: block;
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+  }
+
+  .post-item-title--blog {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+  }
+
+  &--with-excerpt .post-item-date {
+    display: block;
+    font-size: 0.85em;
+    font-weight: normal;
+    color: $text-base-color;
+    margin-top: -0.15em;
+    margin-bottom: 0.5em;
+  }
+
+  .post-item-excerpt {
+    margin: 0 0 0.5em 0;
+    font-size: $base-font-size;
+    color: $gray;
+  }
 }
 
 // Footer
