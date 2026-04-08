@@ -5,8 +5,6 @@ image: "/assets/img/zoom-audio-test.jpg"
 comments: True
 ---
 
-<img src="/assets/img/zoom-audio-test.jpg" caption="">
-
 When I first took over the Tech.eu Podcast in 2018, one of the first decisions I made was that I'd only record interviews online in absolutely exceptional circumstances. Almost of my interviews from that and next year had been recorded in person, and there's a whole bunch of reasons for that. 
 
 First of all, when I interview someone in person, I can control the audio quality. I've got my set of trusted recording gear, I always monitor the audio as I go, and I know exactly what to expect when I open the results on my computers. (Speaking of that — should I run a gear post later to talk about the stuff I use for recording at home and on the ground?)

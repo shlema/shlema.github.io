@@ -5,12 +5,6 @@ image: "/assets/img/techeu_brussels.jpg"
 comments: True
 ---
 
-<!-- # Personal news time: I'm leaving Tech.eu -->
-
-<figure>
-	<img src="/assets/img/techeu_brussels.jpg" caption="">
-	<figcaption>One of my first Tech.eu team photos — January 2019, Brussels</figcaption>
-</figure>
 
 So, long story short — it's been a great three-year-long ride, but this coming Friday (November 5) is my last day at [Tech.eu](https://tech.eu). It's a bittersweet feeling I'm leaving the company with, and I'm sure the recent [acquisition by Webrazzi][1] will give Tech.eu a huge boost — but this is something I'll be watching from the sideline. 
 
