@@ -3,20 +3,24 @@
     "title": "Optimising ourselves for AI",
     "platforms": {
       "x": {
-        "status": "failed",
-        "error": "401 Unauthorized\nUnauthorized"
+        "status": "success",
+        "post_id": "2041864292350242875",
+        "posted_at": "2026-04-08T13:02:38.102996+00:00"
       },
       "bluesky": {
-        "status": "failed",
-        "error": "Either session_string or login and password should be provided."
+        "status": "success",
+        "post_id": "at://did:plc:6wljrnbtj2rxla2qmvdk7ryb/app.bsky.feed.post/3miye3yzbn42e",
+        "posted_at": "2026-04-08T13:02:42.837394+00:00"
       },
       "mastodon": {
-        "status": "failed",
-        "error": "Could not complete request: HTTPSConnectionPool(host='https', port=443): Max retries exceeded with url: /api/v1/statuses (Caused by NameResolutionError(\"HTTPSConnection(host='https', port=443): Failed to resolve 'https' ([Errno -3] Temporary failure in name resolution)\"))"
+        "status": "success",
+        "post_id": "116369218813414227",
+        "posted_at": "2026-04-08T13:02:43.490795+00:00"
       },
       "threads": {
-        "status": "failed",
-        "error": "500 Server Error: Internal Server Error for url: https://graph.threads.net/v1.0//threads?media_type=TEXT&text=Optimising+ourselves+for+legibility+by+AI+is+a+slippery+slope+%E2%80%94+but+it%27s+definitely+happening+already+%28h%2Ft+%40ezraklein%29%0A%0Ahttps%3A%2F%2Fshlema.me%2Foptimising-ourselves-for-AI%0A&access_token="
+        "status": "success",
+        "post_id": "18391890595154615",
+        "posted_at": "2026-04-08T13:02:59.419657+00:00"
       }
     }
   }
