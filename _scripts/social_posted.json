@@ -23,5 +23,30 @@
         "posted_at": "2026-04-08T13:02:59.419657+00:00"
       }
     }
+  },
+  "2026-04-13-tokenmaxxing-vs-journalism.md": {
+    "title": "Tokenmaxxing technologists vs. AI-cautious journalists",
+    "platforms": {
+      "x": {
+        "status": "success",
+        "post_id": "2043644163154149594",
+        "posted_at": "2026-04-13T10:55:12.364689+00:00"
+      },
+      "bluesky": {
+        "status": "success",
+        "post_id": "at://did:plc:6wljrnbtj2rxla2qmvdk7ryb/app.bsky.feed.post/3mjepcoyvi72y",
+        "posted_at": "2026-04-13T10:55:15.275108+00:00"
+      },
+      "mastodon": {
+        "status": "success",
+        "post_id": "116397029180299049",
+        "posted_at": "2026-04-13T10:55:16.061456+00:00"
+      },
+      "threads": {
+        "status": "success",
+        "post_id": "18022354946648748",
+        "posted_at": "2026-04-13T10:55:24.766564+00:00"
+      }
+    }
   }
 }
